@@ -10,3 +10,5 @@ python=3.10
 Веса модели src/model/130EPH_best.pt
 
 [Датасет который был использован.](https://www.kaggle.com/datasets/romanovka/dataset-disc-insulators)
+
+[Competitions](https://www.kaggle.com/competitions/innopolis-high-voltage-challenge)
